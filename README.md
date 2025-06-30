@@ -1,1 +1,0 @@
-# Grain-palette---a-deep-learning-odyssey-in-rice-type
