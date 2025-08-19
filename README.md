@@ -104,7 +104,7 @@ GrainPalette/
 
 - **Project Author:** Mani Deepika
 - **Model Trainer & UI Designer:** Mani Deepika
-- **Banner Design:** GitHub user [Deepak3460](https://github.com/Deepak3460)
+- **Banner Design:** GitHub user [[Deepak3460](https://github.com/DEEPIKATHANNIRU)
 - **Dataset Source:** [Murat Köklü – Kaggle](https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset)
 
 ---
