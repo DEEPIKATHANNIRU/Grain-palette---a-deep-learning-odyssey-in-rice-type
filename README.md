@@ -102,8 +102,8 @@ GrainPalette/
 
 ## ✨ Credits
 
-- **Project Author:** Harika Devi
-- **Model Trainer & UI Designer:** Deepak
+- **Project Author:** Mani Deepika
+- **Model Trainer & UI Designer:** Mani Deepika
 - **Banner Design:** GitHub user [Deepak3460](https://github.com/Deepak3460)
 - **Dataset Source:** [Murat Köklü – Kaggle](https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset)
 
